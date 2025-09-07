@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lipekt
-- 👀 I’m interested in reading and enriching projects.
+- 👀 I’m interested on reading and enriching projects.
 - 🌱 I’m currently learning HTML/CSS and JavaScript
 - 📫 How to reach me lipekt.contato@outlook.com
 - ⚡ Fun fact: I dislike pizza.
